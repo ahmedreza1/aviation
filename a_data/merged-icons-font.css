@@ -1,0 +1,47 @@
+i.eci { 
+display: block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+     }
+     .select2-container i.eci,
+     .elementor-icon-list-icon i.eci {
+       display: inline-block;
+     }
+     .elementor-icons-manager__tab__item__icon.eci {
+    font-size: 28px;
+}
+.elementor-icons-manager__tab-link i.eci {
+    display: inline-block;
+    font-size: 18px;
+}
+@font-face {
+ font-family: 'flyin2';
+  src: url('fontello-b143fad6.zip/fontello-b143fad6/font/flyin2.eot?1934193978');
+  src: url('fontello-b143fad6.zip/fontello-b143fad6/font/flyin2.eot?1934193978#iefix') format('embedded-opentype'),
+       url('fontello-b143fad6.zip/fontello-b143fad6/font/flyin2.woff2?1934193978') format('woff2'),
+       url('fontello-b143fad6.zip/fontello-b143fad6/font/flyin2.woff?1934193978') format('woff'),
+       url('fontello-b143fad6.zip/fontello-b143fad6/font/flyin2.ttf?1934193978') format('truetype'),
+       url('fontello-b143fad6.zip/fontello-b143fad6/font/flyin2.svg?1934193978#flyin2') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.flyin2-Flyin2pilot-had2::before { content: '\e800'; font-family: 'flyin2'; }
+
+
+@font-face {
+ font-family: 'flyin3';
+  src: url('fontello-af6e0ac3.zip/fontello-af6e0ac3/font/flyin3.eot?1071652943');
+  src: url('fontello-af6e0ac3.zip/fontello-af6e0ac3/font/flyin3.eot?1071652943#iefix') format('embedded-opentype'),
+       url('fontello-af6e0ac3.zip/fontello-af6e0ac3/font/flyin3.woff2?1071652943') format('woff2'),
+       url('fontello-af6e0ac3.zip/fontello-af6e0ac3/font/flyin3.woff?1071652943') format('woff'),
+       url('fontello-af6e0ac3.zip/fontello-af6e0ac3/font/flyin3.ttf?1071652943') format('truetype'),
+       url('fontello-af6e0ac3.zip/fontello-af6e0ac3/font/flyin3.svg?1071652943#flyin3') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.flyin3-Flyin3simulatorsss::before { content: '\e801'; font-family: 'flyin3'; }
+
+
